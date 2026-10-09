@@ -1,6 +1,4 @@
-----------------
-title: AI Human Covfefe
-----------------
+
 
 With the advent of AI and its ability to closely mimic human output, the need to have a way to certify what is really a human output has become a real requirement.
 
@@ -41,3 +39,5 @@ May be there would be a premium for human output. The question is whether I will
 It is my hunch that whatever the economics be, people would want to differentiate the human from AI. The service providing this authentication, would be a great business. For shorter activity human vigilance might be enough but long endeavours like writing a book, we would require something else. More thoughts on it in coming days.
 
 *This post is completely human written. You have to take my word for it..for now..*
+
+Version 1.1
