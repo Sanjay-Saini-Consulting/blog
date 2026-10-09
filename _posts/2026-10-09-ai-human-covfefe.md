@@ -1,6 +1,6 @@
-------------------------
+----------------
 AI Human Covfefe
-------------------------
+----------------
 
 With the advent of AI and its ability to closely mimic human output, the need to have a way to certify what is really a human output has become a real requirement.
 
