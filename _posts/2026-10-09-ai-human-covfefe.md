@@ -39,3 +39,5 @@ I wonder how I would feel if I see a novel in store that says,its author is most
 May be there would be a premium for human output. The question is whether I will pay 1000/- for a 3.5/5 human written novel vs 500Rs for a 4.8/5 AI generated novel.
 
 It is my hunch that whatever the economics be, people would want to differentiate the human from AI. The service providing this authentication, would be a great business. For shorter activity human vigilance might be enough but long endeavours like writing a book, we would require something else. More thoughts on it in coming days.
+
+*This post is completely human written. You have to take my word for it..for now..*
