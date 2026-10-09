@@ -42,4 +42,4 @@ It is my hunch that whatever the economics be, people would want to differentiat
 
 *This post is completely human written. You have to take my word for it..for now..*
 
-Version 1.1
+Version 1.2
