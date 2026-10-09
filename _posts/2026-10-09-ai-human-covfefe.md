@@ -6,15 +6,15 @@ With the advent of AI and its ability to closely mimic human output, the need to
 
 Let's look at what kind of digital outputs are there:
 
-    1. Text
-    2. Speech and audio
-    3. A combination of the above
+1. Text
+2. Speech and audio
+3. A combination of the above
 
 Now let's look at how these outputs are getting generated:
 
-    1. Completely human
-    2. Completely AI
-    3. On a spectrum i.e. AI generated with human inputs (This one is difficult as exact quantification between human and AI in terms of output is hard). For our purpose it is also to be considered AI generated.
+1. Completely human
+2. Completely AI
+3. On a spectrum i.e. AI generated with human inputs (This one is difficult as exact quantification between human and AI in terms of output is hard). For our purpose it is also to be considered AI generated.
 
 
 Completely AI also needs some initiation point but the input is only, in a way, just starter and not a active participant in the process.
@@ -42,4 +42,4 @@ It is my hunch that whatever the economics be, people would want to differentiat
 
 *This post is completely human written. You have to take my word for it..for now..*
 
-Version 1.2
+Version 1.3
