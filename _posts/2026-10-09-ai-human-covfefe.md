@@ -8,7 +8,8 @@ Let's look at what kind of digital outputs are there:
 
 1. Text
 2. Speech and audio
-3. A combination of the above
+3. Video or Visual (Diagrams,presentations, designs etc)
+4. A combination of the above
 
 Now let's look at how these outputs are getting generated:
 
