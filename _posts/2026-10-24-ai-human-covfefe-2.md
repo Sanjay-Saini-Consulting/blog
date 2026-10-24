@@ -1,5 +1,6 @@
 ---
 title: "AI Human Covfefe 2"
+category: "Applied AI"
 ---
 
 Google on YouTube is marking videos that are AI generated. How accurate it is, is anyone’s guess but my estimate is that it has very little, almost zero, false positive. That is for now when the state of visual AI is not same as that of text and associated digital outputs in output quality. On the text side, there is active attempt by people to humanize their output. A smart 2nd year knows to ask AI to write his report on say Operating Systems like a 2nd year student and not Andrew Tanenbaum. Not only these but the whole field of synthetic data is about generating artificial data as similar to real world as possible.
@@ -10,4 +11,4 @@ So the sorting hat is not enough, we need something else. More on that in the co
 
 *This post is completely human written. You have to take my word for it..for now..*
 
-Version 1.1
+Version 1.2

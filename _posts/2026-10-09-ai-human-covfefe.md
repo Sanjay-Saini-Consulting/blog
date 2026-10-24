@@ -1,5 +1,6 @@
 ---
 title: "AI Human Covfefe"
+category: "Applied AI"
 ---
 
 With the advent of AI and its ability to closely mimic human output, the need to have a way to certify what is really a human output has become a real requirement.
@@ -43,4 +44,4 @@ It is my hunch that whatever the economics be, people would want to differentiat
 
 *This post is completely human written. You have to take my word for it..for now..*
 
-Version 1.4
+Version 1.5
